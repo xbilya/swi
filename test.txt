@@ -1,1 +1,1 @@
-toto je ešte novšia vetva
+toto je master vetva
